@@ -1,0 +1,8 @@
+{
+    "name":"Subodh",
+    "start_url": "index.html",
+    "background_color": "#fdfdfd",
+  "theme_color": "#db4938",
+  "display": "standalone",
+  "orientation": "portrait-primary"
+}
